@@ -6,7 +6,7 @@ I am a computational programmer and researcher focused on mathematical modelling
 
 ### 🚀 What I Do--------------
 - **Computational Physics:** Author of a 22-page independent research paper simulating the mechanical and electromagnetic resonance of Tesla's oscillator using MATLAB.
-- **Competitive chess player** (1900 peak rapid) and played multiple interstate, interschool and FIDE tournaments across all parts of India *(AND I DONT PLAN TO STOP)
+- **Competitive chess player** (1900 peak rapid) and played multiple interstate, interschool and FIDE tournaments across all parts of India *(plan to play more)
 - **Systems Automation:** Building Python utility scripts to automate desktop workflows, and render mathematical geometries, and parse data telemetry.
 
 ---

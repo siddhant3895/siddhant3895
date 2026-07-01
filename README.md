@@ -26,7 +26,7 @@ I am a computational programmer and researcher focused on mathematical modelling
 ---
 
 ### ⚡ Beyond Coding----
-When I'm not optimizing algorithms or debugging simulations, you'll find me:
-- Doing karate, cooking(food), playing football with friends, drawing manga panels, or playing guitar/piano(depends on my mood) or losing in chess to 3500 rated chess engines....
-- Arranging live instrumental sets (Piano, Guitar, Bass Guitar) for a hobby and national commemorative events and college/highschool functions and event with friends :):)
+When I'm not on github youll find me:
+- Practicing karate(sundays mostly), cooking(food), playing football with friends, drawing manga panels, or playing guitar/piano(depends on my mood) or losing in chess to 3500 rated chess engines....
+- Arranging live instrumental sets (Piano, Guitar, Bass Guitar) for a hobby and national commemorative events and college/highschool functions and event with friends is what i like :):)
 

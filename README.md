@@ -4,10 +4,9 @@
 <h1 align="center">👋🏻 Hi, I'm Siddhant</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ef7b45&center=true&vCenter=true&width=500&height=50&lines=Building+Data+Pipelines;Structuring+Software+Architectures;Engineering+Modular+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=ef7b45&center=true&vCenter=true&width=601&height=50&lines=Building+Data+Pipelines;Structuring+Software+Architectures;Engineering+Modular+Systems" alt="Typing SVG" />
   </a>
 </p>
-
 
 
 

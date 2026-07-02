@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/siddhant3895/siddhant3895/blob/main/download%20(2).jpg?raw=true" alt="Golden Hour Cozy Banner" width="100%" />
+  <img src="https://github.com/siddhant3895/siddhant3895/blob/main/Screenshot%202026-07-02%20084236.png?raw=true" alt="Golden Hour Cozy Banner" width="100%" />
 </p>
 
 <h1 align="center">👋🏻 Hi, I'm Siddhant</h1>

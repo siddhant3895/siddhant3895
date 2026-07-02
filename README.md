@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="https://github.com/siddhant3895/siddhant3895/blob/main/download%20(2).jpg?raw=true" alt="Golden Hour Cozy Banner" width="100%" />
+</p>
+
+<h1 align="center">👋🏻 Hi, I'm Siddhant</h1>
+
+<h3 align="center">
+  <font color="#ef7b45">Building Data Pipelines and Software Architectures</font> 🔥
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddhant3895&color=ef7b45&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+
 # Hey there, I'm Siddhant 👋
 
 I am a computational programmer and researcher focused on mathematical modelling, physics simulations, and algorithm optimization. I build tools to analyse data streams and simulate physical systems.

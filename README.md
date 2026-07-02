@@ -10,7 +10,7 @@
 <h1 align="center">👋🏻 Hi, I'm Siddhant</h1>
 
 <h3 align="center">
-  <font color="#ef7b45">Building Data Pipelines and Software Architectures</font> 🔥
+  <font color="#ef7b45">Building Something New Everyday</font> 🔥
 </h3>
 
 <p align="center">

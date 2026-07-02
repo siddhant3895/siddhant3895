@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/siddhant3895/siddhant3895/blob/main/yayaaa.png?raw=true" alt="Golden Hour Cozy Banner" width="100%" />
+  <img src="https://github.com/siddhant3895/siddhant3895/blob/main/SAAFWR.png?raw=true" alt="Golden Hour Cozy Banner" width="100%" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">

@@ -12,7 +12,12 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=siddhant3895&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Python-100%25-ef7b45?style=flat&labelColor=2d3139&logo=python&logoColor=white" alt="Python Stats" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MATLAB-Core-ef7b45?style=flat&labelColor=2d3139&logo=mathworks&logoColor=white" alt="MATLAB Stats" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Environments-Jupyter%20%7C%20Git-ef7b45?style=flat&labelColor=2d3139&logo=git&logoColor=white" alt="Tools Stats" />
+</p>
 </p>
 
 ---

@@ -20,9 +20,6 @@
 ---
 ---
 
-
-# Hey there, I'm Siddhant 👋
-
 I am a computational programmer and researcher focused on mathematical modelling, physics simulations, and algorithm optimization. I build tools to analyse data streams and simulate physical systems.
 
 ---

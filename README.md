@@ -13,9 +13,6 @@
   <font color="#ef7b45">Building Something New Everyday</font> 🔥🔥🔥
 </h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant3895&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 ---
 ---
 

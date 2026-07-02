@@ -20,11 +20,11 @@
 
 Computational programmer and researcher focused on mathematical modelling, physics simulations, and algorithm optimization. I build tools to analyse data streams and simulate physical systems.
 
----
+Computational Programmer focused on building data engineering pipelines and simulation engines using Python and MATLAB.
 
-- **Computational Physics:** Author of a 22-page independent research paper simulating the mechanical and electromagnetic resonance of Tesla's oscillator using MATLAB.
-- **Competitive chess player** (1900 peak rapid) and played multiple interstate, interschool and FIDE tournaments across all parts of India *(plan to play more)
-- **Systems Automation:** Building Python utility scripts to automate desktop workflows, and render mathematical geometries, and parse data telemetry.
+I enjoy translating mathematical models into functional software, designing modular backend systems, and processing deep data telemetry.
+
+I prioritize building deep, logic-driven systems from scratch, focusing heavily on algorithmic optimization rather than generic corporate frameworks.
 
 ---
 
@@ -48,8 +48,12 @@ Computational programmer and researcher focused on mathematical modelling, physi
 
 ---
 
-### ⚡ Beyond Coding----
-When I'm not on github youll find me:
-- Practicing karate(sundays mostly), cooking(food), playing football with friends, drawing manga panels, or playing guitar/piano(depends on my mood) or losing in chess to 3500 rated chess engines....
-- Arranging live instrumental sets (Piano, Guitar, Bass Guitar) for a hobby and national commemorative events and college/highschool functions and event with friends is what i like :):)
+---
+
+## 🎯 Current Focus
+
+* Writing MATLAB scripts to simulate physics and resonance experiments
+* Making a Python tool to analyze my chess game files
+* Solving LeetCode problems (coding and algorithms)
+* Using LaTeX to write research papers and math formulas
 

@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://github.com/siddhant3895/siddhant3895/blob/main/gitttttt.jpg?raw=true" alt="Golden Hour Cozy Banner" width="100%" />
+  <img src="https://github.com/siddhant3895/siddhant3895/blob/main/download%20(2).jpg?raw=true" alt="Golden Hour Cozy Banner" width="100%" />
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ef7b45&center=true&vCenter=true&width=500&height=50&lines=Building+Data+Pipelines;Structuring+Software+Architectures;Engineering+Modular+Systems" alt="Typing SVG" />
+  </a>
 </p>
 
 <h1 align="center">👋🏻 Hi, I'm Siddhant</h1>
@@ -9,9 +14,10 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhant3895&color=ef7b45&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant3895&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+---
 ---
 
 

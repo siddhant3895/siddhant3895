@@ -18,13 +18,7 @@
 ---
 ---
 
-Computational programmer and researcher focused on mathematical modelling, physics simulations, and algorithm optimization. I build tools to analyse data streams and simulate physical systems.
-
-Computational Programmer focused on building data engineering pipelines and simulation engines using Python and MATLAB.
-
-I enjoy translating mathematical models into functional software, designing modular backend systems, and processing deep data telemetry.
-
-I prioritize building deep, logic-driven systems from scratch, focusing heavily on algorithmic optimization rather than generic corporate frameworks.
+Programmer and researcher focused on mathematical modelling, MATLAB, and algorithms.
 
 ---
 

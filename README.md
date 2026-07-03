@@ -46,8 +46,8 @@ Programmer and researcher focused on mathematical modelling, MATLAB, and algorit
 
 ## 🎯 Current Focus
 
-* Writing MATLAB scripts to simulate physics and resonance experiments
-* Making a Python tool to analyze my chess game files
+* Writing MATLAB scripts to simulate physics experiments
+* Making a Python tool to analyze chess games
 * Solving LeetCode problems (coding and algorithms)
-* Using LaTeX to write research papers and math formulas
+* Using LaTeX to write research papers and math formula/s
 

@@ -29,9 +29,9 @@ Programmer and researcher focused on mathematical modelling, MATLAB, and algorit
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
-- **Languages:** MATLAB, Python, C++ *(currently deep-diving)*
-- **Tools & Environments:** Git, VS Code, Markdown, Linux terminal basics
-- **Libraries/Frameworks:** NumPy, Matplotlib, Python-Chess
+- **Languages:** MATLAB, Python, C++ *(learning stage)*
+
+- **Tools:** Git, VS Code, Markdown, Linux terminal basics
 
 ---
 

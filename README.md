@@ -38,8 +38,10 @@ Programmer and researcher focused on mathematical modelling, MATLAB, and algorit
 
 ### 📊 Project Highlights (Pinned Below)-
 * 📥 **[physics-resonance-simulation]** - High-fidelity MATLAB numerical modeling for wave mechanics research.
-* ♟️ **[chess-tactical-analytics]** - A Python data-science pipeline parsing PGN game files to visualize engine-level performance metrics.
-* 💡 **[tech-utility-scripts]** - Lightweight automation scripts and 3D mathematical geometric rendering tools.
+* ♟️ **[chess-tactical-analytics]** -
+A Python data-science pipeline parsing PGN game files to visualize engine-level performance metrics.
+* 💡 **[tech-utility-scripts]** -
+Lightweight automation scripts and 3D mathematical geometric rendering tools.
 
 ---
 
